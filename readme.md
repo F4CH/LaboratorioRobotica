@@ -52,6 +52,9 @@ Cuando una rueda gira en sentido opuesto a la otra, el robot rota en el lugar, e
 ### 4. ¿Qué tipo de movimiento permite dibujar un círculo?
 Para dibujar un círculo, ambas ruedas deben moverse en el mismo sentido, pero con velocidades distintas y constantes.
 
+# Enlace a video de simulacion
+### https://youtu.be/CsD8px0-FUI
+
 # Integrantes:
 ### Programador: Benjamin Gomez 
 ### Experimentador: Pablo Aguilera 
